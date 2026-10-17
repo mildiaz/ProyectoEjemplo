@@ -1,4 +1,4 @@
-# ProyectoEjemplo
+# Proyecto_Ejemplo
 
 Mi primer repositorio de Git
 
